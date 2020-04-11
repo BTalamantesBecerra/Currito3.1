@@ -9,6 +9,10 @@ circos-0.69-6 or latest;
 Python 3.6 or latest;
 Powershell for Windows
 
+Cite as
+Berenice Talamantes-Becerra, & Jason Carling. (2020, April 11). Currito3.1 DNA Fragment Analysis Software (Version V1.0.0). Zenodo. http://doi.org/10.5281/zenodo.3748447
+
+
 
 Reference
 
